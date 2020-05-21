@@ -1,2 +1,2 @@
-From gcr.io/google-samples/gb-frontend:v4
+From wordpress:4.8-apache
 MAINTAINER Maxima <maximaqiu@Hotmail.com>
